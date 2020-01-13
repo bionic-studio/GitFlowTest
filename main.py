@@ -1,7 +1,13 @@
 import video
+import mail
 
 def func_video():
 	pass
+
+
+def func_mail():
+	mail.send_msg()
+	mail.receive_msg()
 
 
 def main():
