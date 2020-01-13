@@ -1,4 +1,4 @@
-import vedio
+import video
 
 def func_video():
 	pass
