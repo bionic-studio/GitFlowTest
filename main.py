@@ -1,8 +1,10 @@
 import video
 import mail
 
+
 def func_video():
-	pass
+	video.fast()
+	video.slowly()
 
 def func_mail():
 	mail.send_msg()
