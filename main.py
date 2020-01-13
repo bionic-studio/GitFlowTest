@@ -1,7 +1,9 @@
 import video
 
+
 def func_video():
-	pass
+	video.fast()
+	video.slowly()
 
 
 def main():
