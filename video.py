@@ -11,3 +11,9 @@ def fast():
 def slowly():
 	print('slowly')
 	print('more slowly')
+
+def voice_up():
+	print('up up up!')
+
+def voice_down():
+	print('down down down!')
