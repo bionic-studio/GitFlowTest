@@ -19,4 +19,4 @@ def voice_down():
 	print('down down down!')
 
 def checkout_video():
-	print('check check!')
+	print('check check123!')
